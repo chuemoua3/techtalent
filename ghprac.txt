@@ -2,3 +2,18 @@
 
 This is more github and git command practices.
 
+1.)open your master file.  For my example, it is cd git_sample
+
+2.) then create your branch.  ---> git branch "name"
+
+3.) Then check it out ----> git checkout "name"
+
+4.) then create your file such as, touch "name".txt, "name".html, etc
+
+5.) then add to the github ---> git add .
+
+6.) then commit your file/branch with -----> git commit -m "reason"
+
+7.) then you need to push it with ----> git push -u origin "name of branch"
+
+8.)
